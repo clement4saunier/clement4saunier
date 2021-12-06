@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @clement4saunier
 - Student in Software development !
 
-3d printing technology and gamedev enthusiasts.
+Blockchain, 3d printing technology and gamedev enthusiast.
 
 <!---
 clement4saunier/clement4saunier is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
